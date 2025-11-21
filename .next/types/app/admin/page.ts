@@ -1,4 +1,4 @@
-// File: /home/maina/Desktop/subzero_care/app/admin/page.tsx
+// File: C:\Users\maina\Downloads\subzero_care\subzero_care\app\admin\page.tsx
 import * as entry from '../../../../app/admin/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
