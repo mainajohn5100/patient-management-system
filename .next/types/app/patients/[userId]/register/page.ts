@@ -1,4 +1,4 @@
-// File: C:\Users\maina\Downloads\subzero_care\subzero_care\app\patients\[userId]\register\page.tsx
+// File: /workspaces/patient-management-system/app/patients/[userId]/register/page.tsx
 import * as entry from '../../../../../../app/patients/[userId]/register/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

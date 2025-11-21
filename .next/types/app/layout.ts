@@ -1,4 +1,4 @@
-// File: C:\Users\maina\Downloads\subzero_care\subzero_care\app\layout.tsx
+// File: /workspaces/patient-management-system/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
